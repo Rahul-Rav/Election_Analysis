@@ -35,7 +35,7 @@ There were three candidates in this congressional race; Charles Casper Stockham,
 * Diana DeGette received received 272,892 votes accounting for 73.8% of the total votes.
 
 
-Diana DeGette recieved the majority of votes finalizing her vicotry in this congressional race of Colorado.
+***Diana DeGette recieved the majority of votes finalizing her vicotry in this congressional race of Colorado.***
 <img width="298" alt="Election_Results" src="https://user-images.githubusercontent.com/95504135/149633395-a449ca45-8408-4ac1-8099-151949b35608.png">
   
 ## Election Audit Summary
