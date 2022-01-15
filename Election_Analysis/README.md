@@ -15,7 +15,6 @@ Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio Code 1.6.3
 
 ## Election Audit Results
-There were three candidates in this congressional race; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 
 The Total Votes count of 369,711 in this congressional election is split between three counties; Jefferson, Denver, and Arapahoe.
 
@@ -24,9 +23,14 @@ The Total Votes count of 369,711 in this congressional election is split between
   Jefferson had a total of 38,855 votes - accounting for 10.5% of the total votes cast
   
   Denver had a total of 306,055 votes - accounting for 82.8% - the largest number of votes cast.
+  
+  
+There were three candidates in this congressional race; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 
 Raymon Anthony Doane received 3.1% of the total votes at 11,606 votes.
+
 Charles Casper Stockham received 23% of the total votes at 85,213 votes.
+
 Diana DeGette received received 73.8% of the total votes at 272,892 votes.
 
 Diana DeGette recieved the majority of votes finalizing her vicotry in this congressional race of Colorado.
