@@ -23,7 +23,8 @@ The Total Votes count of 369,711 in this congressional election is split between
   Jefferson had a total of 38,855 votes - accounting for 10.5% of the total votes cast
   
   Denver had a total of 306,055 votes - accounting for 82.8% - the largest number of votes cast.
-  
+ 
+
   
 There were three candidates in this congressional race; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 
