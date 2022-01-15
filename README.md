@@ -18,6 +18,7 @@ Software: Python 3.7.6, Visual Studio Code 1.6.3
 
 The Total Votes count of 369,711 in this congressional election is split between three counties; Jefferson, Denver, and Arapahoe.
 
+<img width="425" alt="Screen Shot 2022-01-15 at 1 53 30 PM" src="https://user-images.githubusercontent.com/95504135/149634875-e87ba367-db33-4b08-a61e-72d6c68a50de.png">
 
 * Arapahoe had a total of 24,801 votes - accounting for 6.7% of the total votes cast.
   
