@@ -29,6 +29,8 @@ The Total Votes count of 369,711 in this congressional election is split between
 ***Denver had the largest number of votes cast (306,055 votes)***
   
 There were three candidates in this congressional race; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
+<img width="543" alt="Screen Shot 2022-01-15 at 1 54 14 PM" src="https://user-images.githubusercontent.com/95504135/149634911-bd30c3cd-479a-46cf-ab65-03b643604401.png">
+
 
 * Raymon Anthony Doane received 11,606 votes accounting for 3.1% of the total votes.
 
