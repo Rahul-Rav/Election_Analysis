@@ -7,8 +7,25 @@ In this project, we are assisting a Colorado Board of Elections employee (Tom) i
 3. Percentage of votes for each candidate
 4. Tthe winner of the election based on the popular vote.
 
-Using Python (ver. 3.7.6), we generate a vote count report to certify this US Congressional race.
+Using Python we generate a vote count report to certify this US Congressional race.
+
+## Resources
+Data Source: election_results.csv
+Software: Python 3.7.6, Visual Studio Code 1.6.3
 
 ## Election Audit Results
+There were three candidates in this congressional race; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 
+The Total Votes count of 369,711 in this congressional election is split between three counties; Jefferson, Denver, and Arapahoe.
+  Arapahoe had a total of 24,801 votes - accounting for 6.7% of the total votes cast
+  Jefferson had a total of 38,855 votes - accounting for 10.5% of the total votes cast
+  Denver had a total of 306,055 votes - accounting for 82.8% - the largest number of votes cast.
+
+Raymon Anthony Doane received 3.1% of the total votes at 11,606 votes.
+Charles Casper Stockham received 23% of the total votes at 85,213 votes.
+Diana DeGette received received 73.8% of the total votes at 272,892 votes.
+
+Diana DeGette recieved the majority of votes finalizing her vicotry in this congressional race of Colorado.
+<img width="298" alt="Election_Results" src="https://user-images.githubusercontent.com/95504135/149633395-a449ca45-8408-4ac1-8099-151949b35608.png">
+  
 ## Election Audit Summary
