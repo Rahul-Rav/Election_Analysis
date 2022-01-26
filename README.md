@@ -5,7 +5,7 @@ In this project, we are assisting a Colorado Board of Elections employee (Tom) i
 1. The total number of votes cast 
 2. Total number of votes for each candiddate 
 3. Percentage of votes for each candidate
-4. Tthe winner of the election based on the popular vote.
+4. The winner of the election based on the popular vote.
 
 Using Python we generate a vote count report to certify this US Congressional race.
 
